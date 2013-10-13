@@ -1,0 +1,190 @@
+body {
+	margin: 0px;
+	background: #f6f6f6;
+}
+
+#topbar {
+	background-color: #fe9b1b;
+	width: 100%;
+	height: 5px;
+}
+
+#logo {
+	width: 180px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+#timeline {
+	float: left;
+	width: 800px;
+}
+
+#wrapper {
+	width: 960px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+ul {
+	display: inline-block;
+	position: relative;
+	bottom: 12px;
+	margin-left: 30px;
+}
+
+li {
+	list-style: none;
+	display: inline;
+	font-weight: 500;
+	font-family: "arial";
+	margin-right: 40px;
+}
+
+a {
+	text-decoration: none;
+	color: #656c6c;
+}
+
+.iqon {
+	margin-right: 2px;
+	position: relative;
+	top: 3px;
+}
+
+.acount {
+	display: inline-block;
+	margin-left: 50px;
+	position: relative;
+	top: 12px;
+	left: 90px
+}
+
+form{
+    width:100px;
+    margin:0 auto;
+    position: relative;
+    bottom: 12px;
+    left: 95px;
+}
+
+.serchtab{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.search {
+    padding:6px 20px 6px 30px;
+    margin:3px;
+    background: url('../img/serch.png') no-repeat 8px 6px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+#nav {
+	background: #4a4b4b;
+	width: 100%;
+	height: 22px;
+	margin-top: 20px;
+}
+
+.caption {
+	color: #c5c8c8;
+	font-size: 12px;
+	margin-left: 60px;
+	position: relative;
+	bottom: 2.5px;
+}
+
+.caption:hover {
+	color: #ffffff;
+}
+
+.wrap {
+	margin-left: 40px;
+	margin-top: 50px;
+	width: 1000px;
+	height: 400px;
+}
+
+.item {
+	margin-right: 40px;
+	width: 250px;
+	float: left;
+}
+
+.itemimg{
+	width: 250px;
+	float: left;
+}
+
+.mark {
+	margin: 0px;
+	display: inline-block;
+}
+
+.itemcaption {
+	font-size: 11px;
+	display: inline;
+	position: relative;
+	bottom: 2px;
+}
+
+.setumei {
+	width: 250px;
+	text-align: center;
+	position: relative;
+	bottom: 5px;
+	color: #000000;
+}
+
+.bun {
+	color: #7e7883;
+}
+
+.itemca {
+	color: #000000;
+}
+
+.top {
+	margin-top: 30px;
+}
+.top1 {
+	margin-top: 20px;
+}
+.top2 {
+	margin-top: 0px;
+}
+.top3{
+	margin-top: 50px;
+}
+.top4 {
+	margin-top: 60px;
+}
+
+#rightbar {
+	background-color: #f6f6f6;
+	width: 220px;
+	height: 2642px;
+	float: right;
+	border-left: solid 1px #c1bfc1;
+	text-align: left;
+	font-family: "arial";
+	color: #656c6c;
+	padding-left: 10px;
+}
+
+.rightcaption {
+	font-size: 10px;
+}
+
+.rightcaption:hover {
+	color: #fe9b1b;
+}
+
+.minacount {
+	display: inline-block;
+}
